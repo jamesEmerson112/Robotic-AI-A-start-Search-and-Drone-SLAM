@@ -8,7 +8,7 @@ Objective:
 
 This project aims to implement a basic Simultaneous Localization and Mapping (SLAM) algorithm using OnlineGraph for a drone navigating from one location to another in an unknown 2D environment with randomly sized, spawn trees. The drone will use its sensor data, which only contains landmarks ID and their bearings with distances, to map the environment while simultaneously determining its own location in the map.
 
-Demo:
+Demo: please reach out for a presenttion and a demo
 
 Key Features:
 	1.	SLAM Simulation: The drone will use sensor data to create a map and update its location in real-time.
@@ -34,7 +34,7 @@ Objective:
 
 To implement the A search algorithm* to find the shortest path between a starting point and a goal on a 2D grid and a 2D grid with elevations. The project will visualize the algorithm’s behavior, showing how the search evolves and how nodes are explored and added to the path.
 
-Demo:
+Demo: please reach out for a presenttion and a demo
 
 Key Features:
 	1.	Pathfinding Visualization: Uses Pygame to visualize the algorithm’s progress in finding the shortest path.
