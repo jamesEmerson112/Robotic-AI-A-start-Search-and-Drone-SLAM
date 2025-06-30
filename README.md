@@ -92,16 +92,3 @@ To implement the A* search algorithm to find the shortest path between a startin
 
 ---
 
-## Getting Started
-
-```bash
-# Example: Run the A* visualizer
-python astar/main.py
-```
-*Update with actual run instructions for each project as needed.*
-
----
-
-## Contact
-
-For demos or questions, reach out via [your email/contact info].
